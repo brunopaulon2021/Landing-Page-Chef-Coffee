@@ -2525,16 +2525,18 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .footer-area {
-  color: #fff;
+  color: #000000;
+  font-size: 14px;
+  font-weight: 500;
   padding-top: 220px;
   background: url(../img/footer-bg.jpg) center;
   background-size: cover;
 }
 
 .footer-area h6 {
-  color: #fff;
+  color: #070606;
   margin-bottom: 25px;
-  font-size: 18px;
+  font-size: 22px;
   font-weight: 600;
 }
 

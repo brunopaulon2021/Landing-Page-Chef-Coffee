@@ -3,11 +3,7 @@
 /* Tablet Layout: 768px */
 /* Mobile Layout: 320px */
 /* Wide Mobile Layout: 480px */
-/*
-################
-               Start Common Page style
-################
-*/
+
 .black-bg {
   background-color: #fff;
 }
@@ -435,36 +431,6 @@
   cursor: pointer;
 }
 
-/*
-################
-               End About Page style
-################
-*/
-/*
-################
-               Start Privacy & Policy style
-################
-*/
-/*
-################
-               End Privacy & Policy style
-################
-*/
-/*
-################
-               Start Terms & Condition  Page style
-################
-*/
-/*
-################
-               Start Terms & Condition  Page style
-################
-*/
-/*
-################
-               Start Contact us  Page style
-################
-*/
 .contact-content-area {
   background-color: #f9f9ff;
 }
@@ -487,9 +453,3 @@
 .contact-page-contact .form-area .primary-btn:hover {
   color: #222 !important;
 }
-
-/*
-################
-               Start Contact us  Page style
-################
-*/
