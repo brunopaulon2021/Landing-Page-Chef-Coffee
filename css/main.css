@@ -8,12 +8,12 @@
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #b68834;
+  background-color: #7d2d0a;
   color: #fff;
 }
 
 ::selection {
-  background-color: #b68834;
+  background-color: #7d2d0a;
   color: #fff;
 }
 
@@ -57,7 +57,10 @@ body {
   line-height: 1.625em;
   position: relative;
 }
-
+#logo img {
+  width: 100px;
+  border-radius: 50%;
+}
 ol, ul {
   margin: 0;
   padding: 0;
@@ -84,7 +87,7 @@ iframe {
 }
 
 a, a:focus, a:hover {
-  text-decoration: none;
+  color: #000;
   outline: 0;
 }
 
@@ -103,10 +106,6 @@ a, a:focus, a:hover {
   padding: 60px;
 }
 
-/**
- *  Typography
- *
- **/
 .btn i, .btn-large i, .btn-floating i, .btn-large i, .btn-flat i {
   font-size: 1em;
   line-height: inherit;
@@ -567,7 +566,7 @@ td, th {
 }
 
 .text-white {
-  color: #fff;
+  color: #653737;
 }
 
 .text-black {
@@ -1941,8 +1940,9 @@ h1, h2, h3, h4, h5, h6 {
   #header #logo h1 {
     font-size: 28px;
   }
-  #header #logo img {
+  #logo img {
     max-height: 40px;
+    width: 50px;
   }
 }
 
